@@ -7,7 +7,6 @@ Python script that pulls the 20 latest earthquakes that has a magnitude higher t
 ## Dependencies
 
 Dependencies can be found in requirements.txt
-Install:
 ```
 pip install -r requirements.txt
 ```
