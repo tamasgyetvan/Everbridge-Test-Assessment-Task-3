@@ -12,5 +12,5 @@ Install:
 pip install -r requirements.txt
 ```
 
-## Dependencies
+## Author
 Created by Tamas Gyetvan @ 2024
