@@ -13,4 +13,4 @@ pip install -r requirements.txt
 ```
 
 ## Author
-Created by Tamas Gyetvan @ 2024
+Tamas Gyetvan @ 2024
